@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0",
+    "yarn": "^1.22.22"
+  },
+  "name": "leetCode",
+  "version": "1.0.0",
+  "description": "leetCode Practice questions",
+  "main": "index.js",
+  "repository": "https://github.com/seanyangxian/leetCode.git",
+  "author": "Sean Yang",
+  "license": "MIT"
+}
